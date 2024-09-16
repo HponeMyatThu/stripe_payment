@@ -28,7 +28,7 @@ export default function Home() {
         options={{
           mode: "payment",
           amount: convertToSubcurrency(amount),
-          currency: "usd",
+          currency: "sgd",
         }}
       >
         <CheckoutPage amount={amount} />
