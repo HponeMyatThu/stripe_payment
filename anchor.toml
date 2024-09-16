@@ -1,0 +1,10 @@
+[lcl-host]
+realm-apid = 'localhost'
+
+[org]
+apid = 'hponemy8tthu-5b44c8'
+
+[service]
+apid = 'stripe-payment-elements-with-https-nextjs-14-demo'
+category = 'javascript'
+cert-style = 'acme'
